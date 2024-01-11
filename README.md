@@ -1,7 +1,6 @@
 ### Olá! Eu sou Werick 👋
 
-- 🔭 Estou trabalhando com front-end
-- 🌱 Estou aprendendo Back-end/Nodejs
+- 🔭 Estou trabalhando Back-end
 - 😄 Pronouns: ele/dele
 
 ##
